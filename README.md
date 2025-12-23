@@ -99,19 +99,17 @@ An **AI-powered backend project** focused on improving video quality using perce
 - Python Programming – Vityarthi  
 - Artificial Intelligence & Machine Learning – Vityarthi  
 
----
 
 ## 📈 GitHub Stats
 
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigreasons&show_icons=true&theme=radical)
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigreasons&show_icons=true&theme=radical&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bigreasons&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bigreasons&layout=compact&theme=radical&cache_seconds=86400)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bigreasons&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=bigreasons&theme=radical&cache_seconds=86400)
 
-![](https://komarev.com/ghpvc/?username=bigreasons&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=bigreasons&color=blue)
 
----
 
 ## 🎯 Current Focus
 
