@@ -49,40 +49,124 @@ I am a backend-oriented computer science student who enjoys building practical s
 
 ---
 
-## 🏆 Featured Hackathon Project
+🛡️ ⭐ Featured Project – ML-IDS (Machine Learning Intrusion Detection System)
 
-### 🎥 Perceptual Video Enhancer ⭐
+🔗 https://github.com/BIGREASONS/ML-IDS-Machine-Learning-Intrusion-Detection-System
+
+A Machine Learning-based Intrusion Detection System designed to detect malicious network activity using classification models and structured data preprocessing pipelines.
+
+🚀 Key Features
+
+Binary & multi-class intrusion detection
+
+Data preprocessing & feature engineering
+
+Model training & comparison
+
+Confusion matrix & performance evaluation
+
+Accuracy, Precision, Recall & F1-score analysis
+
+🧠 Tech Used
+
+Python
+
+pandas
+
+numpy
+
+scikit-learn
+
+matplotlib / seaborn
+
+🎯 Why It’s Important
+
+This project demonstrates:
+
+Applied Machine Learning knowledge
+
+Understanding of network security concepts
+
+Data preprocessing & model evaluation skills
+
+Cybersecurity + AI integration
+
+Built a supervised ML system capable of detecting anomalous network behavior using structured datasets and classification algorithms.
+
+🏆 Hackathon Project
+🎥 Perceptual Video Enhancer
+
 🔗 https://github.com/BIGREASONS/Perceptual-Video-Enhancer
 
-An AI-powered backend project focused on improving video quality using perceptual enhancement techniques.
+AI-powered backend system focused on perceptual video quality enhancement.
 
-**Highlights**
-- Backend-heavy processing pipeline
-- Real-world video quality improvement use case
-- Designed for experimentation and hackathon deployment
-- Python-based video processing and AI concepts
+Highlights
 
----
+Backend-heavy processing pipeline
 
-## 📌 Other Projects
+Real-world media enhancement use case
 
-### ✈️ Flight Booking Platform (Demo)
+Python-based AI experimentation
+
+Hackathon deployment focused
+
+📌 Other Projects
+✈️ Flight Booking Platform (Demo)
+
 🔗 https://github.com/BIGREASONS/Flight-Booking-Platform-Demo
 
-- Backend-driven demo web application
-- Flight search and booking logic
-- Booking history using database
-- Flask + SQLite backend
+Backend-driven web application
 
-### 🌐 Niche – Personalized Content Platform
-🔗 https://github.com/BIGREASONS/Niche
+Flight search and booking logic
 
-- Front-end focused web project
-- Personalized content recommendations
-- Responsive and clean UI
-- HTML, CSS, JavaScript
+Booking history using database
 
----
+Flask + SQLite backend
+
+🧰 Tech Stack
+👨‍💻 Languages
+
+Python
+
+Java
+
+JavaScript
+
+HTML
+
+CSS
+
+SQL (SQLite)
+
+🌐 Backend
+
+Flask
+
+REST-style backend logic
+
+API design fundamentals
+
+🗄️ Database
+
+SQLite
+
+☁️ Cloud & DevOps (Learning)
+
+GitHub
+
+CI/CD basics
+
+Deployment fundamentals
+
+🤖 AI / ML
+
+Supervised Learning
+
+Classification Models
+
+Feature Engineering
+
+Applied ML for Cybersecurity
 
 ## 📜 Certifications
 
