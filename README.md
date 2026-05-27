@@ -11,14 +11,8 @@
 <br/>
 
 <!-- SOCIAL LINKS -->
-<a href="mailto:singhvaibhavip@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" />
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/vaibhav-singh" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
-</a>&nbsp;
-<a href="https://github.com/BIGREASONS" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub" />
+<a href="https://vaibhavos.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="Website" />
 </a>
 
 <br/><br/>
@@ -201,8 +195,11 @@ Backend-driven web application with flight search, booking logic, and persistent
 
 <br/>
 
-<a href="mailto:singhvaibhavip@gmail.com">
-  <img src="https://img.shields.io/badge/singhvaibhavip@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" />
+<a href="https://vaibhavos.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="Website" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/vaibhav-singh-169750320/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
 </a>
 
 <br/><br/>
